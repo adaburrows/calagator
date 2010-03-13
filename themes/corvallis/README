@@ -1,0 +1,9 @@
+README for Corvallis Theme
+==========================
+
+Steps to Corvallis Themed Bliss:
+
+	1. Copy the theme.txt file over to $CALAGATOR_ROOT/config/
+	2. If pulling a new version, rm -r $CALAGATOR_ROOT/public/themes/corvaliis/
+
+Other than that, set it up as usual.
