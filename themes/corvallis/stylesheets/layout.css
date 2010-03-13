@@ -82,6 +82,10 @@ body {
   bottom: 10px;
 }
 
+#project_menu a {
+  color: #527710;
+}
+
 #search_form {
   background: transparent url('/themes/corvallis/images/white.png') repeat;
   padding: 0.33em;
